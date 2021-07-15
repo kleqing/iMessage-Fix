@@ -2,8 +2,6 @@
 
 ## ⚠️ This patch only work for Chameleon Bootloader! For Clover & OC, i will have a guide later.
 
-## ⚠️ PLEASE READ THIS FIRST!!!
-
 ## 💾 Installation
 
 * All patches file are put in this repo. Just download it and read this guide step-by-step.
