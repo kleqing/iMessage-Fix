@@ -4,7 +4,7 @@
 
 ## 💾 Installation
 
-* All patches file are put in this repo. Just download it and read this guide step-by-step or you can download it by click <a href="https://github.com/red-toxic/iMessage-Fix/archive/refs/heads/main.zip">this</a>.
+* All patches file are put in this repo. Just download it and read this guide step-by-step or you can download it by click <a href="https://github.com/red-toxic/iMessage-Fix/archive/refs/heads/main.zip">this</a>. Just open folder' iMessage Fix'.
 
 ### ☑️ Step 1: En0 enable
 
